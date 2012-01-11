@@ -269,7 +269,7 @@ COL_CYAN = голубой
 COL_ORANGE = оранжевый
 COL_OCEAN = бирюзовый
 COL_MAROON = бордовый
-PRINT_ALL = (ВСЕ) %s :   %s
+PRINT_ALL = (ВСЕМ) %s :   %s
 
 [uk]
 COL_WHITE = білий
@@ -282,4 +282,4 @@ COL_CYAN = блакитний
 COL_ORANGE = оранжевий
 COL_OCEAN = бірюзовий
 COL_MAROON = бордовий
-PRINT_ALL = (ВСІ) %s :   %s
+PRINT_ALL = (ВСІМ) %s :   %s
