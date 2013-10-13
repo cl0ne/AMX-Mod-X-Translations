@@ -98,6 +98,16 @@ CMD_MENU = Meni so komandi
 CONF_MENU = Meni so konfiguracii
 SPE_MENU = Meni so glasovni komandi
 
+[hr]
+CMD_MENU = Naredbe
+CONF_MENU = Podesavanja
+SPE_MENU = Izbornik govora
+
+[bs]
+CMD_MENU = Komande
+CONF_MENU = Podesavanja
+SPE_MENU = Govorne Komande
+
 [ru]
 CMD_MENU = Меню команд
 CONF_MENU = Меню конфигов

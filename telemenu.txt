@@ -138,16 +138,30 @@ TELE_MENU = Meni za teleportiranje
 CUR_LOC = Vidi ja zacuvanata lokacija
 SAVE_LOC = Zacuvaj ja segasnata lokacija
 
+[hr]
+ADMIN_TELEPORT_1 = ADMIN: teleportirao %s
+ADMIN_TELEPORT_2 = ADMIN %s: teleportirao %s
+TELE_MENU = Izbornik teleportacije
+CUR_LOC = Trenutna lokacija
+SAVE_LOC = Sacuvaj lokaciju
+
+[bs]
+ADMIN_TELEPORT_1 = ADMIN: teleportuj %s
+ADMIN_TELEPORT_2 = ADMIN %s: teleportuj %s
+TELE_MENU = Teleport Meni
+CUR_LOC = Sadasnja Lokacija
+SAVE_LOC = Sacuvaj Lokacij
+
 [ru]
-ADMIN_TELEPORT_1 = АДМИН: телепортировал %s
-ADMIN_TELEPORT_2 = АДМИН %s: телепортировал %s
+ADMIN_TELEPORT_1 = АДМИН телепортировал %s
+ADMIN_TELEPORT_2 = АДМИН %s телепортировал %s
 TELE_MENU = Меню телепортации
 CUR_LOC = Текущее место
 SAVE_LOC = Сохранить место
 
 [uk]
-ADMIN_TELEPORT_1 = АДМІН: телепортував %s
-ADMIN_TELEPORT_2 = АДМІН %s: телепортував %s
+ADMIN_TELEPORT_1 = АДМІН телепортував %s
+ADMIN_TELEPORT_2 = АДМІН %s телепортував %s
 TELE_MENU = Меню телепортації
 CUR_LOC = Поточне місце
 SAVE_LOC = Зберегти місце

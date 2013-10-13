@@ -14,6 +14,7 @@ TEAM_MENU = Team Menu
 TRANSF_TO = Transfer to %s
 CL_CMD_MENU = Client Cmds Menu
 NO_CMDS = No cmds available
+CANT_PERF_PLAYER = That action can't be performed on player "%s"
 
 [de]
 ADMIN_BAN_1 = ADMIN: bannt %s
@@ -31,6 +32,7 @@ TEAM_MENU = Menu > Team
 TRANSF_TO = zu den %s geschoben
 CL_CMD_MENU = Menu > Spielerbefehle
 NO_CMDS = keine Befehle verfuegbar
+CANT_PERF_PLAYER = Diese Aktion kann nicht am spieler "%s" ausgefuehrt werden.
 
 [sr]
 ADMIN_BAN_1 = ADMIN: ban %s
@@ -48,6 +50,7 @@ TEAM_MENU = Tim Meni
 TRANSF_TO = Transfer u %s
 CL_CMD_MENU = Klijent Komande Meni
 NO_CMDS = Nema dostupnih komandi
+CANT_PERF_PLAYER = Komanda ne moze biti izvrsena na igrac "%s"
 
 [tr]
 ADMIN_BAN_1 = ADMIN: ban %s
@@ -65,6 +68,7 @@ TEAM_MENU = Takim menu
 TRANSF_TO = %s takima goc
 CL_CMD_MENU = Oyuncu Emir Menusu
 NO_CMDS = Emir mevcud degildir
+CANT_PERF_PLAYER = Oyuncu uzerinde bunu yapamazsiniz "%s"
 
 [fr]
 ADMIN_BAN_1 = ADMIN: banni %s
@@ -82,6 +86,7 @@ TEAM_MENU = Menu Equipe
 TRANSF_TO = Transferer en %s
 CL_CMD_MENU = Menu Cmds Client 
 NO_CMDS = Aucune commande disponible
+CANT_PERF_PLAYER = Cette action ne peut pas etre faite sur le joueur "%s"
 
 [sv]
 ADMIN_BAN_1 = ADMIN: bannlys %s
@@ -99,6 +104,7 @@ TEAM_MENU = Lagmeny
 TRANSF_TO = Skicka till %s
 CL_CMD_MENU = Klientkommandomeny
 NO_CMDS = Det finns inga kommandon
+CANT_PERF_PLAYER = Den handlingen kan inte utf'o'ras pa spelare "%s"
 
 [da]
 ADMIN_BAN_1 = ADMIN: ban %s
@@ -116,23 +122,25 @@ TEAM_MENU = Hold Menu
 TRANSF_TO = Overflyt til %s
 CL_CMD_MENU = Klient Kommando Menu
 NO_CMDS = Ingen kommandoer til raadighed
+CANT_PERF_PLAYER = Den handling kan ikke udfoeres paa spiller "%s"
 
 [pl]
-ADMIN_BAN_1 = ADMIN: ban %s
-ADMIN_BAN_2 = ADMIN %s: ban %s
-BAN_MENU = Menu Bana
+ADMIN_BAN_1 = Admin zbanowal %s
+ADMIN_BAN_2 = Admin %s zbanowal %s
+BAN_MENU = Menu banow
 BAN_FOR_MIN = Ban na %d minut
-BAN_PERM = Kompletny Ban
-SLAP_SLAY_MENU = Menu udzerzen/zgladzen
+BAN_PERM = Permanentny ban
+SLAP_SLAY_MENU = Menu uderzen/zgladzen
 SLAP_WITH_DMG = Uderz zadajac %d obrazen
 SLAY = Zgladzenie
-KICK_MENU = Menu kicka
-ADMIN_TRANSF_1 = ADMIN: %s przeszedl do %s
-ADMIN_TRANSF_2 = ADMIN %s: %s przeszedl do %s
+KICK_MENU = Wyrzuc gracza
+ADMIN_TRANSF_1 = Admin przerzucil %s do %s
+ADMIN_TRANSF_2 = Admin %s przerzucil %s do %s
 TEAM_MENU = Menu druzyny
 TRANSF_TO = Przejdz do %s
 CL_CMD_MENU = menu komend klienta
 NO_CMDS = Nie ma zadnych komend
+CANT_PERF_PLAYER = Nie mozesz tego wykonac na gracz "%s"
 
 [nl]
 ADMIN_BAN_1 = ADMIN: ban %s
@@ -150,6 +158,7 @@ TEAM_MENU = Teammenu
 TRANSF_TO = Zet over naar %s
 CL_CMD_MENU = Gebruikerscommandomenu
 NO_CMDS = Geen cmds beschikbaar
+CANT_PERF_PLAYER = Die actie kan niet worden uitgevoerd op speler "%s"
 
 [es]
 ADMIN_BAN_1 = ADMIN: %s baneado
@@ -167,23 +176,25 @@ TEAM_MENU = Menu de Equipos
 TRANSF_TO = Transferir a los %s
 CL_CMD_MENU = Menu de Comandos de Cliente
 NO_CMDS = No hay comandos disponibles
+CANT_PERF_PLAYER = Esta accion no se puede aplicar a jugador "%s"
 
 [bp]
 ADMIN_BAN_1 = ADMIN: baniu %s
 ADMIN_BAN_2 = ADMIN %s: baniu %s
-BAN_MENU = Menu Banir
-BAN_FOR_MIN = Banido por %d minutos
-BAN_PERM = Banido permanentemente
-SLAP_SLAY_MENU = Menu Tapa/Assassinar
+BAN_MENU = Menu de Bans
+BAN_FOR_MIN = Banir por %d minutos
+BAN_PERM = Banir permanentemente
+SLAP_SLAY_MENU = Menu de Tapa/Assassinar
 SLAP_WITH_DMG = Tapa com %d de dano
-SLAY = Tapa
-KICK_MENU = Menu Kickar
+SLAY = Matar
+KICK_MENU = Menu Kicks
 ADMIN_TRANSF_1 = ADMIN: transferiu %s para %s
 ADMIN_TRANSF_2 = ADMIN %s: transferiu %s para %s
-TEAM_MENU = Menu Controle de Time
+TEAM_MENU = Menu de Controle de Time
 TRANSF_TO = Transferir para %s
 CL_CMD_MENU = Menu de Comandos no Cliente
-NO_CMDS = Sem cmds disponivel
+NO_CMDS = Sem comandos disponiveis
+CANT_PERF_PLAYER = Aquela acao nao pode ser executada com jogador "%s"
 
 [cz]
 ADMIN_BAN_1 = ADMIN: zabanoval %s
@@ -201,6 +212,7 @@ TEAM_MENU = Menu Tymu
 TRANSF_TO = Premistit k %s
 CL_CMD_MENU = Menu klientskych prikazu
 NO_CMDS = Zadny cmds
+CANT_PERF_PLAYER = Tato operace nelze provest na hrac "%s"
 
 [fi]
 ADMIN_BAN_1 = ADMIN: bannasi %s
@@ -218,6 +230,7 @@ TEAM_MENU = Joukkuevalikko
 TRANSF_TO = Siirra %s.ksi
 CL_CMD_MENU = Clientkomentovalikko
 NO_CMDS = Ei komentoja kaytettavissa
+CANT_PERF_PLAYER = Tuota toimintoa ei voida suorittaa pelaaja "%s"
 
 [ls]
 ADMIN_BAN_1 = ADMIN: b4nz0|2 %s
@@ -235,6 +248,7 @@ TEAM_MENU = T34m M3nu
 TRANSF_TO = Tr4nsf3r t0 %s
 CL_CMD_MENU = (li3nt (mds M3nu
 NO_CMDS = |\|0 cmds 4v4il4bl3
+CANT_PERF_PLAYER = "%s" iz 4 l33t p|4y3r!
 
 [bg]
 ADMIN_BAN_1 = ADMINISTRATOR: banna %s
@@ -252,6 +266,7 @@ TEAM_MENU = Otborno Menu
 TRANSF_TO = Transferirai kam %s
 CL_CMD_MENU = Klient Comandno Menu
 NO_CMDS = Nqma nikakvi pozvoleni comandi
+CANT_PERF_PLAYER = Tazi comanda nemoje da se izpolzva na igra4 "%s"
 
 [ro]
 ADMIN_BAN_1 = ADMIN: ban %s
@@ -269,6 +284,7 @@ TEAM_MENU = Menu Echipe
 TRANSF_TO = Transfera la %s
 CL_CMD_MENU = Menu Comenzi Jucator
 NO_CMDS = Nici o comanda valabila
+CANT_PERF_PLAYER = Aceasta comanda nu poate fi executata pe jucatorul "%s"
 
 [hu]
 ADMIN_BAN_1 = ADMIN: %s banolva
@@ -286,6 +302,7 @@ TEAM_MENU = CSapat Menu
 TRANSF_TO = Atallitva %s-nek
 CL_CMD_MENU = Client Cmds Menu
 NO_CMDS = Nincs elerheto parancs
+CANT_PERF_PLAYER = Ezt az akciot nem hajthatod vegre "%s"-on jatekos
 
 [lt]
 ADMIN_BAN_1 = ADMINAS: isbanino %s
@@ -303,6 +320,7 @@ TEAM_MENU = Komandos meniu
 TRANSF_TO = Issiusti i %s
 CL_CMD_MENU = Klientu CMD meniu
 NO_CMDS = Nera galimu CMD
+CANT_PERF_PLAYER = Sio veiksmo negalima naudoti ant jaidejui "%s"
 
 [sk]
 ADMIN_BAN_1 = ADMIN: zabanoval %s
@@ -320,6 +338,7 @@ TEAM_MENU = MENU: Tym
 TRANSF_TO = Premiestnit k %s
 CL_CMD_MENU = MENU: klientske prikazy
 NO_CMDS = Ziadny cmds
+CANT_PERF_PLAYER = Tato operacia nejde previest na hrac "%s"
 
 [mk]
 ADMIN_BAN_1 = ADMIN: ban %s
@@ -337,10 +356,47 @@ TEAM_MENU = Meni za timot
 TRANSF_TO = Transfer vo %s
 CL_CMD_MENU = Meni so komandi za klientite
 NO_CMDS = Nema dostapni komandi
+CANT_PERF_PLAYER = Komandata ne moze da bide izvrsena na igrac "%s"
+
+[hr]
+ADMIN_BAN_1 = ADMIN: banao %s
+ADMIN_BAN_2 = ADMIN %s: banao %s
+BAN_MENU = Ban izbornik
+BAN_FOR_MIN = Ban na %d minuta
+BAN_PERM = Ban za stalno
+SLAP_SLAY_MENU = Samar/Slay Meni
+SLAP_WITH_DMG = Samar sa %d stete
+SLAY = Slay
+KICK_MENU = Izbornik izbacivanja
+ADMIN_TRANSF_1 = ADMIN: transfer %s u %s
+ADMIN_TRANSF_2 = ADMIN %s: transfer %s u %s
+TEAM_MENU = Izbornik timova
+TRANSF_TO = Transfer u %s
+CL_CMD_MENU = Izbornik naredbi klijenta
+NO_CMDS = Nema dostupnih naredbi
+CANT_PERF_PLAYER = That action can't be performed on player "%s"
+
+[bs]
+ADMIN_BAN_1 = ADMIN: ban %s
+ADMIN_BAN_2 = ADMIN %s: ban %s
+BAN_MENU = Ban Meni
+BAN_FOR_MIN = Ban na %d minuta
+BAN_PERM = Ban za stalno
+SLAP_SLAY_MENU = Slap/Slay Meni
+SLAP_WITH_DMG = Slap sa %d stete
+SLAY = Slay
+KICK_MENU = Kick Meni
+ADMIN_TRANSF_1 = ADMIN: transfer %s u %s
+ADMIN_TRANSF_2 = ADMIN %s: transfer %s u %s
+TEAM_MENU = Tim Meni
+TRANSF_TO = Transfer u %s
+CL_CMD_MENU = Klijent Komande Meni
+NO_CMDS = Nema dostupnih komand
+CANT_PERF_PLAYER = That action can't be performed on player "%s"
 
 [ru]
-ADMIN_BAN_1 = АДМИН: забанил %s
-ADMIN_BAN_2 = АДМИН %s: забанил %s
+ADMIN_BAN_1 = АДМИН забанил %s
+ADMIN_BAN_2 = АДМИН %s забанил %s
 BAN_MENU = Меню бана
 BAN_FOR_MIN = Забанить на %d минут(ы)
 BAN_PERM = Забанить навсегда
@@ -348,26 +404,28 @@ SLAP_SLAY_MENU = Меню удара
 SLAP_WITH_DMG = Удар: %d урона
 SLAY = Убить
 KICK_MENU = Кикнуть игрока
-ADMIN_TRANSF_1 = АДМИН: перевел %s за %s
-ADMIN_TRANSF_2 = АДМИН %s: перевел %s за %s
+ADMIN_TRANSF_1 = АДМИН перевел %s за %s
+ADMIN_TRANSF_2 = АДМИН %s перевел %s за %s
 TEAM_MENU = Смена команды
 TRANSF_TO = Перевести за %s
 CL_CMD_MENU = Клиентские команды
 NO_CMDS = Нет доступных команд
+CANT_PERF_PLAYER = Это действие неприменимо к игроку "%s"
 
 [uk]
-ADMIN_BAN_1 = АДМІН: забанив %s
-ADMIN_BAN_2 = АДМІН %s: забанив %s
+ADMIN_BAN_1 = АДМІН забанив %s
+ADMIN_BAN_2 = АДМІН %s забанив %s
 BAN_MENU = Меню бану
 BAN_FOR_MIN = Забанити на %d хвилин(и)
 BAN_PERM = Забанити назавжди
 SLAP_SLAY_MENU = Меню удару
-SLAP_WITH_DMG = Вдарити: %d ушкоджень
+SLAP_WITH_DMG = Вдарити %d ушкоджень
 SLAY = Вбити
 KICK_MENU = Меню кіку
-ADMIN_TRANSF_1 = АДМІН: перевів %s до %s
-ADMIN_TRANSF_2 = АДМІН %s: перевів %s до %s
+ADMIN_TRANSF_1 = АДМІН перевів %s до %s
+ADMIN_TRANSF_2 = АДМІН %s перевів %s до %s
 TEAM_MENU = Зміни команд
 TRANSF_TO = Перевести до %s
 CL_CMD_MENU = Клієнтські команди
 NO_CMDS = Немає доступних команд
+CANT_PERF_PLAYER = Ця дія незастосовна до гравця "%s"

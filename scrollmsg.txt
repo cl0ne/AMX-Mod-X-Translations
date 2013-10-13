@@ -98,6 +98,16 @@ MIN_FREQ = Minimalnoto vreme na prikazuvanje na ovaa poraka e %d sekundi
 MSG_FREQ = Vreme za prikazuvanje na leteckite poraki: %d:%02d minuti
 MSG_DISABLED = Leteckata poraka e isklucena
 
+[hr]
+MIN_FREQ = Minimalno vrijeme prikazivanja za ovu poruku je %d sekundi
+MSG_FREQ = Vrijeme prikazivanja prolazece poruke: %d:%02d minut(a)
+MSG_DISABLED = Prolazeca poruka iskljucena
+
+[bs]
+MIN_FREQ = Minimalno vrijeme prikazivanja za ovu poruku je %d sekundi
+MSG_FREQ = Vrijeme prikazivanja prolazece poruke: %d:%02d minut(a)
+MSG_DISABLED = Prolazeca poruka iskljucena
+
 [ru]
 MIN_FREQ = Минимальная частота показа бегущей строки: %d секунд
 MSG_FREQ = Частота показа бегущей строки: %d:%02d минут

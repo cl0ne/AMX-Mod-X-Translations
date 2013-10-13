@@ -64,7 +64,7 @@ SECONDs = sekunder
 [pl]
 THE_TIME = Czas
 TIME_LEFT = Pozostalo czasu
-NO_T_LIMIT = Bez limitu czasu
+NO_T_LIMIT = Brak limitu czasu
 MINUTE = minuta
 MINUTES = minut
 SECOND = sekunda
@@ -177,6 +177,24 @@ MINUTE = minuta
 MINUTES = minuti
 SECOND = sekunda
 SECONDS = sekundi
+
+[hr]
+THE_TIME = Vrijeme
+TIME_LEFT = Preostalo vrijeme
+NO_T_LIMIT = Bez vremenskog ogranicenja
+MINUTE = minuta
+MINUTES = minute
+SECOND = sekunda
+SECONDS = sekundi
+
+[bs]
+THE_TIME = Vrijeme
+TIME_LEFT = Preostalo Vrijeme
+NO_T_LIMIT = Nema Ogranicenja Vremena
+MINUTE = minut
+MINUTES = minute
+SECOND = sekund
+SECONDS = sekunde
 
 [ru]
 THE_TIME = Время

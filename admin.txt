@@ -93,14 +93,14 @@ NO_ENTRY = Du er ikke registreret paa serveren ...
 LOADED_ADMIN = Zaladowano 1 admina z pliku
 LOADED_ADMINS = Zaladowano %d adminow z pliku
 SQL_CANT_CON = Blad SQL: nie mozna polaczyc: '%s'
-SQL_CANT_LOAD_ADMINS = Blad SQL: nie mozna zalad. adminow: '%s'
+SQL_CANT_LOAD_ADMINS = Blad SQL: nie mozna zaladowac adminow: '%s'
 NO_ADMINS = Nie znaleziono adminow.
 SQL_LOADED_ADMIN = Zaladowano 1 admina z bazy danych
-SQL_LOADED_ADMINS = Zaladowano %d admino z bazy danych
+SQL_LOADED_ADMINS = Zaladowano %d adminow z bazy danych
 INV_PAS = Zle haslo!
 PAS_ACC = Haslo zaakceptowane
 PRIV_SET = Przywileje ustawione
-NO_ENTRY = Nie mozesz wejsc na ten serwer...
+NO_ENTRY = Bledne haslo admina, wpisz poprawne haslo
 
 [nl]
 LOADED_ADMIN = 1 admin ingeladen vanuit bestand
@@ -258,6 +258,32 @@ PAS_ACC = Lozinkata e prifatena
 PRIV_SET = Privilegiite se podeseni
 NO_ENTRY = Nemate pristap vo serverot...
 
+[hr]
+LOADED_ADMIN = Ucitan 1 administrator iz datoteke
+LOADED_ADMINS = Ucitano %d administratora iz datoteke
+SQL_CANT_CON = SQL greska: nije moguce uspostaviti vezu sa: '%s'
+SQL_CANT_LOAD_ADMINS = SQL greska: nije moguce ucitati administratore: '%s'
+NO_ADMINS = Administratori nisu pronadjeni.
+SQL_LOADED_ADMIN = Ucitan 1 administrator iz baze podataka
+SQL_LOADED_ADMINS = Ucitano %d administratora iz baze podataka
+INV_PAS = Pogresna lozinka!
+PAS_ACC = Lozinka prihvacena
+PRIV_SET = Privilegije podesene
+NO_ENTRY = Nemate pristup serveru...
+
+[bs]
+LOADED_ADMIN = Ucitan 1 administrator iz fajla
+LOADED_ADMINS = Ucitano %d administratora iz fajla
+SQL_CANT_CON = SQL greska: nije moguce uspostaviti vezu sa: '%s'
+SQL_CANT_LOAD_ADMINS = SQL greska: nije moguce ucitati administratore: '%s'
+NO_ADMINS = Nema nadjenih administratora.
+SQL_LOADED_ADMIN = Ucitan 1 administrator iz baze podataka
+SQL_LOADED_ADMINS = Ucitano %d administratora iz baze podataka
+INV_PAS = Pogresna lozinka!
+PAS_ACC = Lozinka prihvacena
+PRIV_SET = Privilegije podesene
+NO_ENTRY = Nemate pristup serveru...
+
 [ru]
 LOADED_ADMIN = Загружен 1 админ из файла
 LOADED_ADMINS = Загружены %d админ(ов) из файла
@@ -272,8 +298,8 @@ PRIV_SET = Права доступа предоставлены
 NO_ENTRY = У вас нет доступа к серверу...
 
 [uk]
-LOADED_ADMIN = Завантажено 1 адміна з файлу
-LOADED_ADMINS = Завантажено %d адмін(ів) із файлу
+LOADED_ADMIN = Завантажений 1 адмін з файлу
+LOADED_ADMINS = Завантажено %d адмін(ів) з файлу
 SQL_CANT_CON = Помилка SQL: неможливо з'єднатися: '%s'
 SQL_CANT_LOAD_ADMINS = Помилка SQL: неможливо завантажити адмінів: '%s'
 NO_ADMINS = Адмінів не знайдено.
